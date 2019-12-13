@@ -1,0 +1,5 @@
+<runtime ram="1M" caps="100" binary="hello">
+  <content>
+    <rom label="hello"/>
+  </content>
+</runtime>
