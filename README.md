@@ -9,6 +9,10 @@ The actual packaging happens in my [genode-nix
 repo](https://github.com/blitz/genode-nix). Check out `shell.nix` in
 this repo as well.
 
+**Note:** There are probably still some impurities in Goa's
+  dependencies. If you find that it cannot find some dependency, open
+  an issue on in [genode-nix](https://github.com/blitz/genode-nix).
+
 ## Building with nix-shell
 
 Install [Nix](https://nixos.org/nix/).
